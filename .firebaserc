@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "musicambiquepayment",
+    "musicambiquepayment": "musicambiquepayment",
+    "musicambiquepayments": "musicambiquepayments"
+  },
+  "targets": {},
+  "etags": {}
+}
